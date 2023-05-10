@@ -1,2 +1,2 @@
-log(log(log(x1 * log(x4))))
+log(log(log(log(x1^x5))))
 
