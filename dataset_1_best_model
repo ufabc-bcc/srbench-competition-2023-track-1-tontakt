@@ -1,2 +1,2 @@
-log(log(exp(1)+x1))^x1
+(x1^2)^(log(log(log(x1))))
 
